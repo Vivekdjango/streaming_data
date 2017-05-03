@@ -1,9 +1,9 @@
 Conceptual Approach:Python--Python--Python. 
-                    I have used Python-JSON method to read the dump data and then applied loop and conditional statement to 
-                    check the rule violations.Then passed those data into file in json format and saved in text format.
+                    Python ConfigParser,JSON,datetime modules used for the code.ConfigParser to get or set data into/from .ini                     files.Then used loop and conditional statement to validate the rules and update into txt file.
+                   
                    
 Complexity:To understand the problem else code writing with exact logic was like a cake walk for me as I deal with JSOn data on 
-           daily basis.
+           daily basis.The hard part was to handle .ini file format as its a first time experience but got good experience.
            
 Improvemnet: Graphical Representation of data is more attractive and less time consuming than study of json data.Being a coder 
               we can understand these data easily but for others it would not be an easy way.So in all perspective we should
